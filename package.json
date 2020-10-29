@@ -8,8 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.4",
     "sass": "^1.27.0"
+  },
+  "resolutions": {
+    "babel-jest": "24.9.0"
   },
   "scripts": {
     "start": "react-scripts start",
